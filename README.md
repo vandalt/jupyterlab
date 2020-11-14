@@ -2,11 +2,13 @@
 
 > A dark theme for [JupyterLab](https://jupyter.org/)
 
+Fork of the original Dracula theme with scroll past end working.
+
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/jupyterlab](https://draculatheme.com/jupyterlab).
+To install this version, run `jupyter labextension install @vandalt/jupyterlab_dracula`.
 
 ## Team
 
